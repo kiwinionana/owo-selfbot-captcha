@@ -188,12 +188,9 @@ Please make sure to update tests as appropriate.
 
 __Facebook:__ Coming soon 
 
-__Email:__ ntt.eternity2k6@gmail.com
+__Discord:__allah var gam yok#1663
 
-__Discord (semi-support):__ [Join now](https://discord.gg/frdNVtXUdN)
-
-__Join our discord server:__ [Join now](https://discord.gg/Yr92g5Zx3e)
-
+__Discord:__(https://discord.gg/VDUbPYBp)
     Hello there, my name is Eternityy, and I wanted to take a moment to thank you for using our tool.
 
     Since 2021, this project has been non-profit. But we're still committed to making it the best it can be, 
@@ -229,3 +226,4 @@ keepmeside
 💫 We are BKI members (Baka Island - 💪Đảo Ngố Tàu) 
 
 __Tag:__ Discord selfbot, OwO selfbot, Tool Farm OwO, Advanced OwO Selfbot, Selfbot Farm OwO, Discord OwO bot selfbot, Discord OwO selfbot, etc.
+
